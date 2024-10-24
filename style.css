@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+}
+h1 {
+    margin-right: 20;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.6;
+    margin: 10px 0;
+}
